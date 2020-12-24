@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "lite-server",
-    "test": "mocha --recursive ./test"
+    "test": "truffle test"
   },
   "license": "ISC",
   "devDependencies": {
